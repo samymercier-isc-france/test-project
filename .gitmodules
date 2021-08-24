@@ -1,6 +1,6 @@
 [submodule "lottery-api"]
 	path = api-lottery
-	url = https://github.com/samymercier-isc-france/testing-api
+	url = https://github.com/samymercier-isc-france/testing-app-api-lottery
 [submodule "testing-angular"]
 	path = testing-angular
 	url = https://github.com/samymercier-isc-france/testing-app-angular
