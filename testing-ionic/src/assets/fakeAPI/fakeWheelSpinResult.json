@@ -1,8 +1,0 @@
-{
-    "randomNumber": 8,
-    "reward" : {
-        "rewardRarity": 3, 
-        "item": "aurum", 
-        "amount": 300
-    }
-}
