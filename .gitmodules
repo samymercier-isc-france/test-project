@@ -1,0 +1,9 @@
+[submodule "lottery-api"]
+	path = api-lottery
+	url = https://github.com/samymercier-isc-france/testing-api
+[submodule "testing-angular"]
+	path = testing-angular
+	url = https://github.com/samymercier-isc-france/testing-app-angular
+[submodule "testing-ionic"]
+    path = testing-ionic
+    url = https://github.com/samymercier-isc-france/testing-app-ionic
